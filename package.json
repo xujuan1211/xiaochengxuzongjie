@@ -1,0 +1,22 @@
+{
+  "name": "lxq-markdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symbol88680/lxq-markdown.git"
+  },
+  "author": "lxq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/symbol88680/lxq-markdown/issues"
+  },
+  "homepage": "https://github.com/symbol88680/lxq-markdown#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}

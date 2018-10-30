@@ -1,0 +1,24 @@
+body,
+h3,
+h2,
+h1,
+section,
+ul,
+li,
+br,
+p,
+a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+body {
+    padding: 12px;
+}
+ul {
+    border: 1px solid #ddd;
+    margin: 10px 0 20px 0 ;
+    padding: 10px;
+}
